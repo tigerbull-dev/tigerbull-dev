@@ -8,7 +8,7 @@
 </p>
 <p align="center">
  
-# Hi there 👋 I'm Sumukh
+ # Hi there 👋 I'm Sumukh
 
 🚀 Passionate about building apps, experimenting with technology, and learning new tools.
 
