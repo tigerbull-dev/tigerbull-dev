@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Sumukh
 
-<!--
-**tigerbull-dev/tigerbull-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building apps, experimenting with technology, and learning new tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 💻 Interested in Desktop App Development
+- 🦀 Exploring Rust & Tauri
+- 🐧 Linux enthusiast
+- ⚡ Love experimenting with new tech ideas
+
+---
+
+## 🛠️ Currently Exploring
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri)
+
+---
+
+## 📌 Current Focus
+
+- Building desktop applications
+- Exploring system-level programming
+- Improving UI design skills
+- Exploring open-source projects
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerbull-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerbull-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tigerbull-dev&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/tigerbull-dev
+---
+
+## ⚡ Fun Fact
+
+> “I enjoy building things that are both useful and visually clean.”
