@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Sumukh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Sumukh;Exploring+Rust+%26+Tauri;Linux+Enthusiast;Learning+and+Building+Cool+Stuff" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,rust&perline=5" />
+</p>
 
-🚀 Passionate about building apps, experimenting with technology, and learning new tools.
-
-![](https://komarev.com/ghpvc/?username=tigerbull-dev&style=for-the-badge&color=blue)
-
----
 # Hi there 👋 I'm Sumukh
 
 🚀 Passionate about building apps, experimenting with technology, and learning new tools.
