@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Sumukh;Exploring+Rust+%26+Tauri;Linux+Enthusiast;Learning+and+Building+Cool+Stuff" alt="Typing SVG" />
+</p>
 # Hi there 👋 I'm Sumukh
 
 🚀 Passionate about building apps, experimenting with technology, and learning new tools.
