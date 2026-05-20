@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerbull-dev&show_icons=true&theme=tokyonight)
+I![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerbull-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerbull-dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerbull-dev&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
 
