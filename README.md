@@ -1,6 +1,6 @@
 # Hi, I'm Sumukh 👋
 
-🚀 Engineering student exploring Rust, Tauri, Linux, and desktop application development.
+🚀 1st year Engineering student exploring Rust, Tauri, Linux, and desktop application development.
 
 ## 🧑‍💻 About Me
 
