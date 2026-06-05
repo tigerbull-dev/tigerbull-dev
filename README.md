@@ -15,11 +15,3 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerbull-dev&show_icons=true&theme=tokyonight)
-
-## 📫 Connect
-
-GitHub: https://github.com/tigerbull-dev
