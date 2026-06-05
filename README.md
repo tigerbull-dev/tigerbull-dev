@@ -1,65 +1,25 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Sumukh;Exploring+Rust+%26+Tauri;Linux+Enthusiast;Learning+and+Building+Cool+Stuff" alt="Typing SVG" />
-</p>
- 
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,rust&perline=5" />
-</p>
-<p align="center">
- 
- # Hi there 👋 I'm Sumukh
+# Hi, I'm Sumukh 👋
 
-🚀 Passionate about building apps, experimenting with technology, and learning new tools.
-
----
+🚀 Engineering student exploring Rust, Tauri, Linux, and desktop application development.
 
 ## 🧑‍💻 About Me
 
-- 💻 Interested in Desktop App Development
-- 🦀 Exploring Rust & Tauri
+- 🦀 Learning Rust & Tauri
 - 🐧 Linux enthusiast
-- ⚡ Love experimenting with new tech ideas
+- 💻 Interested in Desktop App Development
+- 🌱 Exploring Open Source
 
----
-
-## 🛠️ Currently Exploring
+## 🛠️ Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri)
-
----
-
-## 📌 Current Focus
-
-- Building desktop applications
-- Exploring system-level programming
-- Improving UI design skills
-- Exploring open-source projects
-
----
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 
 ## 📊 GitHub Stats
 
-I![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerbull-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerbull-dev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerbull-dev&layout=compact&langs_count=6&theme=tokyonight)
+## 📫 Connect
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tigerbull-dev&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/tigerbull-dev
----
-
-## ⚡ Fun Fact
-
-> “I enjoy building things that are both useful and visually clean.”
+GitHub: https://github.com/tigerbull-dev
